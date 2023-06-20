@@ -1,0 +1,327 @@
+.main{
+    background-color: black;
+    display: flex;
+   height: 100px;
+   margin-top: -15px;
+   margin-left: -8px;
+   margin-right: -8px;
+}
+body{
+    background-color: rgb(235, 228, 228);
+    overflow: auto;
+}
+.amzlg{
+    width: 150px;
+    height: 100px;
+}
+.loc{
+    width:40px;
+    height:40px;
+    margin-top: 30px;
+
+}
+.side{
+    color:white;
+    float: right;
+    margin-top: 30px;
+}
+.bar{
+    width: 700px;
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 0px;
+    
+}
+.search{
+    width: 45px;
+    height: 45px;
+    margin-top: 30px;
+    border-radius: 0px 10px 10px 0px;
+}
+.select{
+    width: 45px;
+    height: 45px;
+    margin-top:30px ;
+    margin-left: 40px;
+    border-radius: 10px 0px 0px 10px;
+    
+    
+}
+.lan{
+    width: 70px;
+    height: 45px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.return{
+    text-decoration: none;
+    color: white;
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 18px;
+}
+.sign{
+    margin-left: 70px;
+    margin-top: 35px;
+    width: 90px;
+    height: 35;
+    font-size: medium;
+    background-color:rgb(240, 172, 64);
+    color: black;
+    font-weight: bold;
+    border-radius: 8px;
+    
+}
+.sign:hover{
+    background-color: white;
+    color: black;
+}
+.cart{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.under{
+    background-color:rgb(43, 15, 15);
+    height: 40px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.line{
+    text-decoration: none;
+    color: white;
+    margin-top: 5px;
+    margin-left: 25px;
+    float: left;
+}
+.join{
+    float: right;
+}
+.totalrow{
+    width: auto;
+    height: auto;
+}
+.ticket{
+    width: 350px;
+    height: 425px;
+    background-color: white;
+    float: left;
+padding: 10px;
+   
+}
+.ticketmain{
+    margin-top: 20px;
+}
+
+.book{
+     width: 150px;
+     height: 100px;
+     float: left;
+     margin-left: 10px;
+}
+.book1{
+    width: 140px;
+     height: 100px;
+     float: right;
+     margin-right: 10px;
+     margin-top: -18PX;
+}
+.book2{
+    width: 140px;
+     height: 100px;
+     float: left;
+     margin-left: 10px;
+}
+
+.book3{
+    width: 140px;
+     height: 100px;
+     float: right;
+     margin-right: 10px;
+     margin-top: 0PX;
+}
+.ak{
+    float: left;
+margin-top: 105;
+margin-left: -140px;
+color: black;
+}
+.ak1{
+    float: RIGHT;
+margin-left: 90px;
+color: black;
+margin-right: 10px;
+}
+.ak2{
+float: left;
+margin-top:110px;
+margin-left: -140px;
+color: black;
+}
+.ak3{
+    float: RIGHT;
+    margin-top:-55px ;
+margin-left:80px;
+color: black;
+margin-right: 40px;
+}
+.ak4{
+    color:blue;
+    text-decoration: none;
+   margin-top: -18px;
+    float: left;
+    margin-left: 10px;
+}
+.automain{
+    width: 350px;
+    height: 425px;
+    background-color: white; 
+    margin-top: 0px;
+    float: right;
+    margin-right: 750px;
+    padding: 10px;
+}
+.auto{
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin-left: 10px;
+    margin-top: ;
+}
+.auto1{
+   width: 140px;
+    height: 100px;
+    float: right;
+    margin-right: 10px;
+    margin-top: -18PX;
+}
+.auto2{
+   width: 140px;
+    height: 100px;
+    float: left;
+    margin-left: 10px;
+}
+
+.auto3{
+   width: 140px;
+    height: 100px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 0PX;
+}
+.bk{
+    float: left;
+margin-top: 90;
+margin-left: -140px;
+color: black;
+}
+.bk1{
+    float: RIGHT;
+margin-left: 90px;
+color: black;
+margin-right: 50px;
+margin-top: 10px;
+}
+.bk2{
+float: left;
+margin-top:100px;
+margin-left: -140px;
+color: black;
+}
+.bk3{
+    float: RIGHT;
+    margin-top:10px ;
+margin-left:80px;
+color: black;
+margin-right: 40px;
+}
+.bk4{
+    color:blue;
+    text-decoration: none;
+    
+    float: left;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.store{
+    width: 350px;
+    height: 425px;
+    background-color: white; 
+    margin-top: -445px;
+    float: right;
+    margin-right: 350px;
+    padding: 10px;
+
+}
+.istore{
+  width: 350px;
+  height: 300px;
+}
+.ck{
+    color: blue;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.log1{
+    width: 330px;
+    height: 180px;
+    float: right;
+    margin-top: -445px;
+    background-color: white;
+    padding: 5px;
+}
+.data{
+    text-align: center;
+}
+.sign2{
+    margin-left: 120px;
+    margin-top: 35px;
+    width: 90px;
+    height: 35;
+    font-size: medium;
+    background-color: rgb(240, 172, 64);
+    color: black;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.sign2:hover{
+    background-color: black;
+    color: white;
+}
+.lap{
+    width: 300px;
+    height: 250px;
+    float: right;
+    margin-top: -244px;
+    margin-right: 17px;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+.prime{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.dropdown-content{
+    width: 340px;
+    height: 340px;
+    display: none;
+    position :absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index:1;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.btnp{
+    background-color:rgb(43, 15, 15) ;
+    border: 0px solid rgb(43, 15, 15) ;
+    margin-top: 3px;
+}
